@@ -1,1 +1,2 @@
 Test file to learn to merge on github.
+This is an edit to learn to merge on github.
